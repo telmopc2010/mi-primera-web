@@ -1,0 +1,46 @@
+ body {
+   font-family: "Segoe UI";
+ }
+
+body {
+    max-width: 800px; /* Limita el ancho para que no ocupe toda la pantalla */
+    margin: 0 auto;   /* Pone 0 de margen arriba/abajo y centra izquierda/derecha */
+    padding: 20px;    /* Añade un poco de espacio interior para que no pegue a los bordes */
+}
+
+
+ table {
+   text-align: 100px;
+ }
+
+ a {
+   color: rgb(0, 153, 255);
+ }
+
+ header {
+   text-align: left;
+ }
+ 
+ tbody {text-align: 100px;}
+
+ h1 {
+   text-align: 100px;
+ }
+
+ h1 {
+   border-bottom: 4px solid rgb(0, 255, 0);
+ }
+
+ p header {
+   border-bottom: 4px solid green;
+ }
+
+li {text-align: 100px;}
+ 
+img {text-align: center;}
+
+ul {background: #e3ecf3;}
+
+ul {list-style: none;}
+ text {text-align: 100px;}
+
